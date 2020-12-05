@@ -3,7 +3,7 @@
 # Maxi-Tool
 The latest version of DarkFly tool V.4.0
 
-Maxi-Tool now is: <a href="https://github.com/Ranginang67/DarkFly-2019.1">Maxi-2020.1</a> (generation of Maxi-tool) Try it.
+Maxi-Tool now is: <a href="https://github.com/hamelon/Maxi-2020.1">Maxi-2020.1</a> (generation of Maxi-tool) Try it.
 
 information:
 
@@ -15,7 +15,7 @@ install:
 
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/Maxi-Tool`
+* `git clone https://github.com/hamelon/Maxi-Tool`
 * `cd Maxi-Tool`
 * `python2 install.py`
 
